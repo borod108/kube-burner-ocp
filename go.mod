@@ -168,3 +168,5 @@ replace (
 )
 
 exclude github.com/kube-burner/kube-burner v1.20.6 // Published accidentally
+
+replace github.com/kube-burner/kube-burner/v2 => github.com/borod108/kube-burner/v2 v2.8.7-0.20260930193759-c7c7c10995e0
